@@ -1,0 +1,11 @@
+$ORIGIN 0.17.172.inaddr.arpa.
+$TTL 86400 ;
+@   IN  SOA servidor postmaster (
+        202205101 ;
+        6H ;
+        1H ;
+        2W ;
+        3H ;
+)
+    IN  NS  wwww.miemprendimiento.com.
+2   IN  PTR www.miemprendimiento.com.
